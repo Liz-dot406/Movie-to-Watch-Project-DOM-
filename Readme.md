@@ -22,11 +22,11 @@ By working on this project, you will:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/movie-to-watch.git
+    git clone https://github.com/Teach2Give-Training-Resources/Movie-to-Watch-Project-DOM-.git
     ```
 2. Open the project folder:
     ```bash
-    cd movie-to-watch
+    cd Movie-to-Watch-Project-DOM
     ```
 3. Open `index.html` in your browser to view the app.
 
